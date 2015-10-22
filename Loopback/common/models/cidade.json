@@ -1,0 +1,28 @@
+{
+  "name": "cidade",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nome": {
+      "type": "string",
+      "required": true
+    },
+    "estado": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "cliente": {
+      "type": "hasMany",
+      "model": "cliente",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

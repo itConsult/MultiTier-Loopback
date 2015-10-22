@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/12 09:04:11.000.194,=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/27 15:44:16.000.549,=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/27 17:39:25.000.764,=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:25:03.125,=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:27:23.257,D:\gordosteam\delphi\Main.dfm=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/10/21 14:27:23.257,D:\gordosteam\delphi\Main.pas=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:27:31.220,D:\gordosteam\delphi\Exemplo.dproj=C:\Users\XPertFernando\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/10/21 14:28:45.008,=D:\gordosteam\delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:29:13.455,D:\gordosteam\delphi\Units\uConnect.pas=D:\gordosteam\delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:43:39.740,=D:\gordosteam\delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 14:43:53.781,D:\gordosteam\delphi\Configuracao.dfm=D:\gordosteam\delphi\Unit1.dfm</Transaction>
+    <Transaction>2015/10/21 14:43:53.781,D:\gordosteam\delphi\Configuracao.pas=D:\gordosteam\delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 15:35:01.980,=D:\gordosteam\delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/21 15:35:38.945,D:\gordosteam\delphi\Units\uCidade.pas=D:\gordosteam\delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

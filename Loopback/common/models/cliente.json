@@ -1,0 +1,42 @@
+{
+  "name": "cliente",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nome": {
+      "type": "string",
+      "required": true
+    },
+    "cpfCnpj": {
+      "type": "string",
+      "required": true
+    },
+    "ieRg": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "number",
+      "required": true
+    },
+    "endereco": {
+      "type": "string",
+      "required": true
+    },
+    "telefone": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "cidade": {
+      "type": "belongsTo",
+      "model": "cidade",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}
